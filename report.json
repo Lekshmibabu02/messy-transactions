@@ -1,0 +1,24 @@
+{
+  "input_rows": 33,
+  "valid_rows": 14,
+  "invalid_rows": 19,
+  "duplicate_transaction_ids": 1,
+  "duplicate_transaction_id_rows": 1,
+  "possible_duplicate_rows": 2,
+  "total_revenue": "1234818.63",
+  "revenue_breakdown": {
+    "paid_total": "1239687.75",
+    "refund_total": "4869.12",
+    "paid_rows_counted": 6,
+    "refund_rows_counted": 4
+  },
+  "rows_by_issue_code": {
+    "AMBIGUOUS_DATE": 5,
+    "INVALID_AMOUNT": 7,
+    "INVALID_NAME": 1,
+    "INVALID_DATE": 3,
+    "DUPLICATE_ID": 1,
+    "POSSIBLE_DUPLICATE": 2,
+    "INVALID_STATUS": 1
+  }
+}
